@@ -1,5 +1,5 @@
 format: jb-book
-root: index
+root: index-coordinates
 chapters:
 - file: 1_Coordinates-Intro
 - file: 2_Coordinates-Transforms
